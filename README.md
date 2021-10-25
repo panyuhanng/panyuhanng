@@ -1,7 +1,9 @@
-### Hi there 👋
+# zh_cn 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=panyuhanng&locale=cn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=011C32)](https://github.com/panyuhanng/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panyuhanng&locale=cn&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=011C32)](https://github.com/panyuhanng/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=panyuhanng&locale=cn&show_icons=true&count_private=true&theme=react&hide_border=true)](https://github.com/panyuhanng/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panyuhanng&locale=cn&langs_count=8&layout=compact&theme=react&hide_border=true)](https://github.com/panyuhanng/)
+
+### Hi there 👋
 
 <!--
 **panyuhanng/panyuhanng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
